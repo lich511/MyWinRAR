@@ -1,0 +1,14 @@
+C:\Users\lich51\Desktop\projects\test_console\test_console\bin\Debug\test_console.exe.config
+C:\Users\lich51\Desktop\projects\test_console\test_console\bin\Debug\test_console.exe
+C:\Users\lich51\Desktop\projects\test_console\test_console\bin\Debug\test_console.pdb
+C:\Users\lich51\Desktop\projects\test_console\test_console\obj\Debug\test_console.csprojAssemblyReference.cache
+C:\Users\lich51\Desktop\projects\test_console\test_console\obj\Debug\test_console.csproj.CoreCompileInputs.cache
+C:\Users\lich51\Desktop\projects\test_console\test_console\obj\Debug\test_console.exe
+C:\Users\lich51\Desktop\projects\test_console\test_console\obj\Debug\test_console.pdb
+C:\Users\lich51\Desktop\projects\file_menedger\test_console\bin\Debug\test_console.exe.config
+C:\Users\lich51\Desktop\projects\file_menedger\test_console\bin\Debug\test_console.exe
+C:\Users\lich51\Desktop\projects\file_menedger\test_console\bin\Debug\test_console.pdb
+C:\Users\lich51\Desktop\projects\file_menedger\test_console\obj\Debug\test_console.csprojAssemblyReference.cache
+C:\Users\lich51\Desktop\projects\file_menedger\test_console\obj\Debug\test_console.csproj.CoreCompileInputs.cache
+C:\Users\lich51\Desktop\projects\file_menedger\test_console\obj\Debug\test_console.exe
+C:\Users\lich51\Desktop\projects\file_menedger\test_console\obj\Debug\test_console.pdb
